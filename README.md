@@ -8,5 +8,5 @@
 <img width="493" height="325" alt="DragonSlayer-3" src="https://github.com/user-attachments/assets/68454167-a1ea-4c9c-aca6-bd086ad5eea4" />
 
 - For the third version (2006+) use "DragonSlayer-3"
-- 
+  
 - Try to avoid posting identical dupes
