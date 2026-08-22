@@ -1,8 +1,8 @@
 # Missing Quest Completions:
 
-- Druidic ritual - 2004 
+- Druidic Ritual - 2004 
 - Fight Arena - 2004
-- Hazeel cult - 2004 (Evil)
+- Hazeel Cult - 2004 (Evil)
 - Monks Friend - 2004
 - Scorpion Catcher - 2004
 - Temple of Ikov - 2004 (lucien)
