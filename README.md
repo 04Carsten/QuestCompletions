@@ -22,4 +22,6 @@
 
 - For the third version use "DragonSlayer-3"
   
+- For different versions from same period use 1a,1b,1c etc.
+  
 - Try to avoid posting identical dupes
