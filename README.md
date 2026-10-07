@@ -4,11 +4,8 @@
 - Fight Arena - 2004
 - Hazeel Cult - 2004 (Evil)
 - Monks Friend - 2004
-- Scorpion Catcher - 2004
 - Temple of Ikov - 2004 (lucien)
 - Temple of Ikov - 2005 (lucien)
-- Tribal Totem - 2004
-- Underground Pass - 2004
 - Regicide - 2004
 
 # Formatting Guide
