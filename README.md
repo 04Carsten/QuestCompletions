@@ -2,7 +2,7 @@
 
 - Druidic Ritual - 2004 
 - Fight Arena - 2004
-- Hazeel Cult - 2004 (Evil)
+- Hazeel Cult - 2004 (Fake ending)
 - Monks Friend - 2004
 - Temple of Ikov - 2004 (lucien)
 - Temple of Ikov - 2005 (lucien)
